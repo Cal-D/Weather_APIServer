@@ -14,17 +14,20 @@
  - ex) localhost:8080/weather/seoul/22   ---> 서울의 오늘 22시의 날씨정보
  
  
-## 내부 동작
-
+## 내부 동작  
+* 현재시간 날씨조회  
+![githbum11](https://user-images.githubusercontent.com/43934497/126458205-f473ae8a-3ebd-4b52-801b-9a57e1279dfa.png)
+* 현재시간 날씨조회  
+![githbum22](https://user-images.githubusercontent.com/43934497/126458521-d8370dcc-3525-4a63-9dd2-970fe8fbdd0f.png)
 
 
 ## DB<br/>
 ![DB 형태](https://user-images.githubusercontent.com/43934497/126314966-7523d8c8-70d8-44a1-a3da-1129db5ee92c.png)
 ## 결과 예시
 * 서울 8시 날씨 조회<br/>  
-![결과](https://user-images.githubusercontent.com/43934497/126315014-5b0735b7-b097-4732-8821-6fa300dc3e94.png)
+![제대로 진짜](https://user-images.githubusercontent.com/43934497/126458814-5fc3281e-e776-462f-9e89-cd2044444b0a.png)
 * 현재 시간의 서울 날씨 조희<br/>  
-![결과2](https://user-images.githubusercontent.com/43934497/126315035-166e9494-6c71-422f-84af-0db9b0020844.png)
+![제대로2](https://user-images.githubusercontent.com/43934497/126458636-0056d8d1-8809-4351-a67a-aa0b591cb945.png)
 
 ## 예외 처리
  * URL을 잘못 요청할 경우<br/>  
