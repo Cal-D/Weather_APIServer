@@ -56,5 +56,8 @@
     ![Pathvariable](https://user-images.githubusercontent.com/43934497/126335565-b1b98591-852d-426a-abed-6071b684bbea.png)  
 * @Mapper
     + 해당 인터페이스를 빈으로 주입</br>
-    ![Mapper](https://user-images.githubusercontent.com/43934497/126335915-df376fb1-d604-4471-86a2-9cdbb94f1589.png)
-    
+    ![Mapper](https://user-images.githubusercontent.com/43934497/126335915-df376fb1-d604-4471-86a2-9cdbb94f1589.png)  
+* Mysql version8
+    + 한글은 3byte, (영어,숫자)는 1바이트 [UTF-8]  
+    ![DB](https://user-images.githubusercontent.com/43934497/126517095-2d7c1ce2-2064-4a9c-aa29-0ab2610cc33b.PNG)
+
