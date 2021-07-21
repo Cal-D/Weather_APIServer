@@ -46,6 +46,7 @@
 * @RestController  
     + @Controller + @ResponseBody와 같음
     + @ResponseBody 안붙여줘도 객체를 JSON객체로 리턴 시켜줌</br>
+    + Class객체를 JSON객체로 자동 변환시 setter까지는 필요가 없었음.. getter만 있으면 된다
 * @PostConstruct
     + Bean LifeCycle에서 한번만 수행됨
     + 빈이 완전히 생성된 상태(@Autowired 주입 완료 후)에서 한번만 실행됨</br>
