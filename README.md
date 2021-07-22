@@ -15,9 +15,9 @@
  
  
 ## 내부 동작  
-* 현재시간 날씨조회  
+* 현재시각 날씨조회  
 ![githbum11](https://user-images.githubusercontent.com/43934497/126458205-f473ae8a-3ebd-4b52-801b-9a57e1279dfa.png)
-* 현재시간 날씨조회  
+* 특정시각 날씨조회  
 ![githbum22](https://user-images.githubusercontent.com/43934497/126458521-d8370dcc-3525-4a63-9dd2-970fe8fbdd0f.png)
 
 
